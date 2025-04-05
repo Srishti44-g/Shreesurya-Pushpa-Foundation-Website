@@ -1,0 +1,11 @@
+{
+  "images": [
+    {
+      "filename": "image1.jpg",
+      "thumbnail": "thumb1.jpg",
+      "category": "events",
+      "caption": "Community Event 2023"
+    },
+    // ... Add all 193 images with their metadata
+  ]
+}
